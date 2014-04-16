@@ -1,1 +1,24 @@
-Author : Parvez
+/* Author : Parvez */
+
+telosb
+Version : telos 2.1.2 
+
+To install
+Command : make telosb install
+          OR
+          make telosb install, id
+
+To list motes currently connected to system
+Command : motelist
+
+Blink Program
+The node switches from blinking one light to different light.
+
+Id example
+/dev/ttyUSB0
+
+Other Commands
+export 
+motion
+          
+    
